@@ -1,14 +1,11 @@
-
 # Tạo list rỗng
 emtyList = []
 
 # Tạo ra một đối tượng List
-
 emtyList2 = list()
 
 print(emtyList)
 print(emtyList2)
-
 
 # Tạo ra List có dữ liệu
 colors = ['red', 'blue', 'yellow']
